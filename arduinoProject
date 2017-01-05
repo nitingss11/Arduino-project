@@ -1,4 +1,4 @@
-/changes
+//changes
 #include <SPI.h>
 #include <MFRC522.h>
 #include<String.h>
